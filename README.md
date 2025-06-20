@@ -28,29 +28,3 @@ Refer to the included images to understand where and how the part is used.
 
 > For personal use only – Commercial use is prohibited.
 
-LICENSE
-________________________________________________________________________________________
-TÜRKÇE:
-
-Bu dosya yalnızca kişisel kullanım amacıyla paylaşılmıştır. 
-İndiren kişi bu dosyayı sadece kendi ihtiyacı için kullanabilir.
-
-Ticari amaçla kullanılamaz, satılamaz, üretilemez veya dağıtılamaz. 
-Dosya üzerinde değişiklik yapabilir ancak bu değişiklikler de yine sadece kişisel kullanım için geçerlidir.
-
-Telif hakkı sahibi (bu GitHub deposunun sahibi), bu dosyanın ticari amaçlarla kullanılmasından sorumlu değildir ve izin vermemektedir.
-
----
-
-ENGLISH:
-
-This file is shared strictly for **personal use only**.  
-The downloader may use this file solely for their own needs.
-
-**Commercial use is strictly prohibited.**  
-It is not allowed to sell, manufacture, distribute, or use this file for any commercial purposes.
-
-Modifications to the file are permitted only for personal use.
-
-The copyright holder (owner of this GitHub repository) does not permit or endorse commercial use of this file.
-
